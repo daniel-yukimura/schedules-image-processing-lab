@@ -1,7 +1,3 @@
----
-title: Fundamentals and Trends in Vision and Image Processing - 2018
----
-
 ## Schedule:
 * Introduction/Instructions (15/08):
   * Assignments
