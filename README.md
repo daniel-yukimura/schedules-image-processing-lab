@@ -1,5 +1,5 @@
 ## Schedule:
-* Introduction/Instructions (15/08):
+* Introduction/Instructions (15/08): [Slides](slides/class_0_Introduction.pdf)
   * Assignments
   * Topic Presentations
   * Software and tools
