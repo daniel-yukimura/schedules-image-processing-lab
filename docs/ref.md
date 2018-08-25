@@ -3,9 +3,15 @@
 
 ### Main References
 
+* ["Machine Learning: A Probabilistic Perspective", K. Murphy](https://mitpress.mit.edu/books/machine-learning-1)
+
+* ["Understanding Machine Learning: From Theory to Algorithms", Shai Ben-David and Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+
+* ["Generative Adversarial Networks"(MS Thesis), Y.](http://lvelho.impa.br/ip18/reading/daniel-ms-2018.pdf) (see chapter 2)
 
 ### Further References
 
+* ["Introduction to statistical learning theory", O. Bousquet, S. Boucheron, G. Lugosi](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf)
 
 <a name="lec2"></a>
 ## Lecture 2: Neural Networks - Fundamentals
