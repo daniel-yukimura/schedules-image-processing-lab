@@ -13,6 +13,10 @@
 
 * ["Introduction to statistical learning theory", O. Bousquet, S. Boucheron, G. Lugosi](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf)
 
+* ["The Lack of A Priori Distinctions Between Learning Algorithms", D. Wolpert](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.390.9412&rep=rep1&type=pdf)
+
+* ["254A, Notes 0: A review of probability theory", Terence Tao](https://terrytao.wordpress.com/2010/01/01/254a-notes-0-a-review-of-probability-theory/)
+
 <a name="lec2"></a>
 ## Lecture 2: Neural Networks - Fundamentals
 
