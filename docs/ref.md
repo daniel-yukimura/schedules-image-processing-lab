@@ -22,5 +22,6 @@
 
 ### Main References
 
+* ["Deep Learning", LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton.](http://www.deeplearningbook.org/) (see chapter 5 and 6)
 
 ### Further References
