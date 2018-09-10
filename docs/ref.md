@@ -24,4 +24,16 @@
 
 * ["Deep Learning", LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton.](http://www.deeplearningbook.org/) (see chapter 5 and 6)
 
-### Further References
+<a name="lec3"></a>
+## Lecture 3: Neural Networks - Designing Neural Networks
+
+* Check the classes of Nando de Freitas on modular formulation of NNs [lec8](https://www.youtube.com/watch?v=-YRB0eFxeQA) - [lec9](https://www.youtube.com/watch?v=NUKp0c4xb8w).
+* Further references for working with PyTorch:
+  * [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
+  * Lectures from Fleuret François EE-559 Deep Learning course:
+    * [Tensor Basics and Linear Regression](https://fleuret.org/ee559/ee559-slides-1-4-tensors-and-linear-regression.pdf)
+    * [High dimension tensors](https://fleuret.org/ee559/ee559-slides-1-5-high-dimension-tensors.pdf)
+    * [Tensor internals](https://fleuret.org/ee559/ee559-slides-1-6-tensor-internals.pdf)
+    * [Autograd](https://fleuret.org/ee559/ee559-slides-4-2-autograd.pdf)
+    * [PyTorch modules](https://fleuret.org/ee559/ee559-slides-4-3-modules.pdf)
+    * [Writing a PyTorch module](https://fleuret.org/ee559/ee559-slides-4-6-writing-a-module.pdf)
