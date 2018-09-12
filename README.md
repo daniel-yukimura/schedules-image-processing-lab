@@ -13,3 +13,5 @@
 | 8 | 03/10 | **Unsupervised Learning**<br> Structured Models | - |
 | 9 | 10/10 | **Unsupervised Learning**<br> Training generative models | - |
 | 9 | 17/10 | **Working with Data**<br> Famous Databases<br> Generating data | - |
+
+Page for the assignments: [link](https://daniel-yukimura.github.io/assingments-image-processing-lab/)
