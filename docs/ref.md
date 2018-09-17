@@ -29,6 +29,7 @@
 
 * Check the classes of Nando de Freitas on modular formulation of NNs [lec8](https://www.youtube.com/watch?v=-YRB0eFxeQA) - [lec9](https://www.youtube.com/watch?v=NUKp0c4xb8w).
 * Further references for working with PyTorch:
+  * [https://github.com/jcjohnson/pytorch-examples](Tutorial) by Justin Johnson.
   * [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
   * Lectures from Fleuret François EE-559 Deep Learning course:
     * [Tensor Basics and Linear Regression](https://fleuret.org/ee559/ee559-slides-1-4-tensors-and-linear-regression.pdf)
