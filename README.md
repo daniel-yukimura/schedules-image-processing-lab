@@ -10,7 +10,7 @@
 | 5 | 12/09 | **Neural Networks III**<br> Training Practices | [Slides](slides/lecture_4_NN_III.pdf) |
 | 6 | 26/09 | **Supervised Applications**<br> Applications in Graphics <br> Transfer Learning | [Slides](slides/lecture_5_Transfer.pdf) |
 | 7 | 03/10 | **Unsupervised Learning**<br> Structured Models | [Slides](slides/lecture_6_GenMod.pdf) |
-| 8 | 10/10 | **Unsupervised Learning**<br> Training generative models | - |
+| 8 | 10/10 | **Unsupervised Learning**<br> Training generative models | [Slides](slides/lecture_7_GANPractice.pdf)  |
 | 9 | 17/10 | **Working with Data**<br> Famous Databases<br> Generating data | - |
 
 Page for the assignments: [link](https://daniel-yukimura.github.io/assingments-image-processing-lab/)
