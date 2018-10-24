@@ -12,5 +12,6 @@
 | 7 | 03/10 | **Unsupervised Learning**<br> Latent Spaces<br> Generative models| [Slides](slides/lecture_6_GenMod.pdf) |
 | 8 | 10/10 | **Generative Modeling**<br> Improving Performance | [Slides](slides/lecture_7_GANPractice.pdf)  |
 | 9 | 17/10 | **Generative Modeling**<br> Conditional GANs<br> Image-to-Image translation | [Slides](slides/lecture_8_GANCond.pdf) |
+| 10 | 24/10  | **Introduction to Tensorflow** | [Colab Notebook](https://colab.research.google.com/drive/1W1FZvwHTRjVSkPh4kxZlLuMRD8vdi_eI) <br> [CNN example + Lucid](https://colab.research.google.com/drive/1fm5dXC5C4C85q4hCyq9ite2mERujWezM) <br> [References](docs/ref.md#lec9)|
 
 Page for the assignments: [link](https://daniel-yukimura.github.io/assingments-image-processing-lab/)

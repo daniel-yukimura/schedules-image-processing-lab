@@ -38,3 +38,12 @@
     * [Autograd](https://fleuret.org/ee559/ee559-slides-4-2-autograd.pdf)
     * [PyTorch modules](https://fleuret.org/ee559/ee559-slides-4-3-modules.pdf)
     * [Writing a PyTorch module](https://fleuret.org/ee559/ee559-slides-4-6-writing-a-module.pdf)
+
+<a name="lec9"></a>
+## Lecture 9: Introduction to Tensorflow
+* [https://www.tensorflow.org/tutorials/](https://www.tensorflow.org/tutorials/)
+* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/2017/index.html)
+* [Tutorials by Magnus Erik Hvass Pedersen](https://github.com/Hvass-Labs/TensorFlow-Tutorials) -
+* [Another good set of examples](https://github.com/aymericdamien/TensorFlow-Examples)
+* [More links](https://github.com/jtoy/awesome-tensorflow)
+* [More examples with Lucid](https://distill.pub/2018/differentiable-parameterizations/)
